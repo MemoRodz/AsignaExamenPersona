@@ -4,13 +4,13 @@
 
 Este repositorio gracias a la necesidad de una prueba técnica que tuve que resolver, espero que el proyecto te ayude a aclarar dudas sobre los puntos mostrados:
 
-🖍️ Interactuar con base de datos con Web API y Web Service.
+🖍️ Interactuar con base de datos con API Web (plantilla ASP.NET Web API) y Web Service.
 
 🖍️ Estaré estructurando el proyecto en 3 capas para apegarme al patrón MVC.
 
 🖍️ Usaré Store Procedure para interacción con los datos en la DB. Dejaré lo scripts de creación de objetos de la base de datos.
 
-Notarás que no uso Entity Framework, ya que así fue la solicitud.
+Notarás que no uso Entity Framework, ya que así fue la solicitud. El lenguaje principal usado en el código es C#.
 
 Veamos como sale, iré avanzando de a poco.
 
@@ -20,14 +20,14 @@ Veamos como sale, iré avanzando de a poco.
 
 ## Detalles del Ejemplo:
 
-0. Crear una base de datos con los siguientes objetos:
+<b>0.</b> Crear una base de datos con los siguientes objetos:
 <p>  📌 Tabla Persona</p>
 <p>  📌 Tabla Examen </p>
 <p>  📌 Tabla de las EvalXPersona</p>
 <p>  📌 Inserción de datos a las tablas</p>
 <p>  📌 Colocar los Pk y Fk</p>
 
-1. Mostrar en pantalla web una lista de personas con los siguientes datos:
+<b>1.</b> Mostrar en pantalla web una lista de personas con los siguientes datos:
 <p>  📌 Id (Persona.IdPersona)</p>
 <p>  📌 Nombre (Persona.Nombre)</p>
 <p>  📌 Apellido Paterno (Persona.ApellidoP)</p>
