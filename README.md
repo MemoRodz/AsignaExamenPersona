@@ -22,17 +22,17 @@ Veamos como sale, iré avanzando de a poco.
 
 0. Crear una base de datos con los siguientes objetos:
 <p>  📌 Tabla Persona</p>
-  📌 Tabla Examen 
-  📌 Tabla de las EvalXPersona
-  📌 Inserción de datos a las tablas
-  📌 Colocar los Pk y Fk
+<p>  📌 Tabla Examen </p>
+<p>  📌 Tabla de las EvalXPersona</p>
+<p>  📌 Inserción de datos a las tablas</p>
+<p>  📌 Colocar los Pk y Fk</p>
 
 1. Mostrar en pantalla web una lista de personas con los siguientes datos:
-  📌 Id (Persona.IdPersona)
-  📌 Nombre (Persona.Nombre)
-  📌 Apellido Paterno (Persona.ApellidoP)
-  📌 Apellido Materno (Persona.ApellidoM)
-  📌 Correoe (Persona.Correoe)
+<p>  📌 Id (Persona.IdPersona)</p>
+<p>  📌 Nombre (Persona.Nombre)</p>
+<p>  📌 Apellido Paterno (Persona.ApellidoP)</p>
+<p>  📌 Apellido Materno (Persona.ApellidoM)</p>
+<p>  📌 Correoe (Persona.Correoe)</p>
 
 
 
