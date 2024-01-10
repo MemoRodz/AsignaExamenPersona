@@ -21,7 +21,7 @@ Veamos como sale, iré avanzando de a poco.
 ## Detalles del Ejemplo:
 
 0. Crear una base de datos con los siguientes objetos:
-  📌 Tabla Persona
+<p>  📌 Tabla Persona</p>
   📌 Tabla Examen 
   📌 Tabla de las EvalXPersona
   📌 Inserción de datos a las tablas
