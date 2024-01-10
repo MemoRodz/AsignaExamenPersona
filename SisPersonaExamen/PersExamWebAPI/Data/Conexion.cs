@@ -7,6 +7,6 @@ namespace PersExamWebAPI.Data
 {
     public class Conexion
     {
-        public static string conn = "Data Source=DBCAPACITECHSHOP.mssql.somee.com;Initial Catalog=DBCAPACITECHSHOP;Persist Security Info=True;User ID=capacitechkids_SQLLogin_4";
+        public static string conn = "Data Source=<TuServidor>;Initial Catalog=<TuBase>;Persist Security Info=True;User ID=<TuUsuario>;Password=<TuPassword>";
     }
 }
